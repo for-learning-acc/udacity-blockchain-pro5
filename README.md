@@ -18,10 +18,17 @@ Node v18.3.0
 
 ```
 
+## Test
+
+```
+truffle test
+```
+
 ## Contract address
 
 ```
-0xB1C6FF87a7A4cCe71c2B5Bb8cfcd3507A05172f0
+Verifier: 0xA116eF18074f3623DAd4e420Cc0631F8DF29Db2D
+SolnSquareVerifier: 0xB1C6FF87a7A4cCe71c2B5Bb8cfcd3507A05172f0
 ```
 
 # Opensea
